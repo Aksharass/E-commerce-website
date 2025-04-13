@@ -1,0 +1,85 @@
+[
+    {
+      "name": "iPhone 15 Pro Max",
+      "price": "1299",
+      "description": "Apple iPhone 15 Pro Max with A17 Bionic chip, 6.7-inch Super Retina XDR display, and 48MP triple-camera system.",
+      "ratings": "4.8",
+      "images": [{ "image": "https://m.media-amazon.com/images/I/713SsA7gftL._AC_UF1000,1000_QL80_.jpg" }],
+      "category": "Smartphones",
+      "seller": "Apple Store",
+      "stock": "25"
+     
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": "1199",
+      "description": "Samsung's latest flagship with Snapdragon 8 Gen 3, 200MP camera, and S-Pen support.",
+      "ratings": "4.7",
+      "images": [{ "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzyqins-539573539?$684_547_PNG$" }],
+      "category": "Smartphones",
+      "seller": "Samsung Official",
+      "stock": "30"
+    },
+    {
+      "name": "OnePlus 12 Pro",
+      "price": "899",
+      "description": "OnePlus 12 Pro with 120Hz AMOLED display, Snapdragon 8 Gen 3, and Hasselblad cameras.",
+      "ratings": "4.6",
+      "images": [{ "image": "https://image01-in.oneplus.net/media/202407/04/9052428d8c69bd8bb884c7913af5fa73.png" }],
+      "category": "Smartphones",
+      "seller": "OnePlus Store",
+      "stock": "50"
+    },
+    {
+      "name": "Google Pixel 8 Pro",
+      "price": "999",
+      "description": "Google Pixel 8 Pro with Tensor G3, AI-powered photography, and stock Android experience.",
+      "ratings": "4.7",
+      "images": [{ "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tZkk1EIagvYxMBeBopnS1rzF-52t_r6mZQ&s" }],
+      "category": "Smartphones",
+      "seller": "Google Store",
+      "stock": "20"
+    },
+    {
+      "name": "Xiaomi 14 Ultra",
+      "price": "1099",
+      "description": "Xiaomi 14 Ultra with Leica optics, Snapdragon 8 Gen 3, and 5000mAh battery.",
+      "ratings": "4.5",
+      "images": [{ "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqBPir-2wWQUdB_3v4kQqEDvBpbOGRdZapRQ&s" }],
+      "category": "Smartphones",
+      "seller": "Xiaomi Official",
+      "stock": "35"
+    },
+    {
+      "name": "Asus ROG Phone 8",
+      "price": "1199",
+      "description": "Asus ROG Phone 8 with 165Hz display, Snapdragon 8 Gen 3, and 6000mAh battery for gaming enthusiasts.",
+      "ratings": "4.6",
+      "images": [{ "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB-en8hv-itDZuIkFQ9GNBIacPe0ALqTeh3g&s" }],
+      "category": "Gaming Phones",
+      "seller": "Asus Official",
+      "stock": "40"
+    },
+    {
+      "name": "Realme GT 5 Pro",
+      "price": "799",
+      "description": "Realme GT 5 Pro with Snapdragon 8 Gen 3, 144Hz AMOLED display, and 120W fast charging.",
+      "ratings": "4.4",
+      "images": [{ "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_oOovTqw5MAO-3yGMrKWrdyf1DBApvxc_g&s" }],
+      "category": "Smartphones",
+      "seller": "Realme Official",
+      "stock": "60"
+    },
+    {
+      "name": "Redmi Note 12 Pro",
+      "price": "349",
+      "description": "Redmi Note 12 Pro with MediaTek Dimensity 1080, 6.67-inch AMOLED display, and 50MP OIS triple-camera system.",
+      "ratings": "4.5",
+      "images": [{ "image": "https://m.media-amazon.com/images/I/71r69Y7BSeL._AC_UF1000,1000_QL80_.jpg" }],
+      "category": "Smartphones",
+      "seller": "Xiaomi Official",
+      "stock": "30"
+  }
+  
+  ]
+  
